@@ -1,2 +1,2 @@
 # Linguagem-C
-Repositório do curso de linguagem C 
+Repositório de  linguagem C .
